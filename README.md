@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alanwaser&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+![snake gif](https://github.com/alanwaser/alanwaser/blob/output/github-snake-dark.svg)
