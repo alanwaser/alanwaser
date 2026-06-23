@@ -14,7 +14,7 @@
 
 ## Projects
 
-**JoggleCube** · Java/JavaFX · [repo](https://github.com/alanwaser/alanwaser)
+**JoggleCube** · Java/JavaFX · [repo](https://github.com/alanwaser/JoggleCube)
 3D word puzzle game built as a group software engineering project (Year 2). I ran QA — wrote test plans, managed the issue tracker, reviewed PRs. 930+ commits across the team. JavaFX frontend, modular architecture.
 
 **Polymarket Trading Bot** · Python
