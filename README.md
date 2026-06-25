@@ -17,9 +17,6 @@
 **JoggleCube** · Java/JavaFX · [repo](https://github.com/alanwaser/JoggleCube)
 3D word puzzle game built as a group software engineering project (Year 2). I ran QA — wrote test plans, managed the issue tracker, reviewed PRs. 930+ commits across the team. JavaFX frontend, modular architecture.
 
-**Polymarket Trading Bot** · Python
-Automated prediction market trader. Flask UI, Kelly criterion position sizing, REST API integration. Built to explore probabilistic thinking and execution logic.
-
 **Data Structures** · Java
 AVL trees, stacks, queues — coursework implementations with analysis write-ups.
 
