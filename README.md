@@ -1,12 +1,12 @@
 # Alan Antony
 
-**CS + AI @ Aberystwyth University** · Research Fellow @ [TrustLoop](https://trustloop.live) · Targeting quant/algo trading grad roles (2027)
+**CS + AI @ Aberystwyth University** · Research Fellow @ [Navige](https://www.navige.ai) · Targeting quant/algo trading grad roles (2027)
 
 ---
 
 ## What I'm working on
 
-**[TrustLoop](https://trustloop.live)** — AI agent governance startup. I do EU AI Act compliance research, competitive analysis, and MCP-based agent infrastructure. Day-to-day work involves reading technical policy, building tooling, and doing customer discovery calls.
+**[Navige](https://www.navige.ai)** — AI agent governance startup. I do EU AI Act compliance research, competitive analysis, and MCP-based agent infrastructure. Day-to-day work involves reading technical policy, building tooling, and doing customer discovery calls.
 
 **FPV** *(active)* — Python project, currently in flight.
 
